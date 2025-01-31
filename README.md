@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/33c7f49b-717d-4f99-af45-a8614b17783c)
+
+
 ## Hi 👋
 
 I'm Sebastian.
