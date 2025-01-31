@@ -5,7 +5,7 @@
 
 I'm Sebastian.
 
-Find out more info about me by visiting my website at https://sebtheo.uk
+Find out more info about me by visiting my website at https://sebtheo.uk or contacting me at `seb@theo4.uk` 😊
 
 
 ## Skills
