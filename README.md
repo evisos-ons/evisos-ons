@@ -7,4 +7,12 @@ Find out more info about me by visiting my website at https://sebtheo.uk
 
 ## Skills
 
-![Skill Icons](https://skillicons.dev/icons?i=aws,cloudflare,css,docker,expressjs,git,github,githubactions,gitlab,html,htmx,js,php,mongodb,nextjs,nginx,nodejs,terraform,selenium,vercel,vscode)
+![Skill Icons](https://skillicons.dev/icons?i=css,html,htmx,js,php,python)
+
+![Skill Icons](https://skillicons.dev/icons?i=expressjs,nextjs,nodejs,react,selenium)
+
+![Skill Icons](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode,postman)
+
+![Skill Icons](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite)
+
+![Skill Icons](https://skillicons.dev/icons?i=aws,cloudflare,docker,nginx,terraform,vercel)
